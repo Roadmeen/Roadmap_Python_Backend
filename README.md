@@ -411,4 +411,5 @@ ___
 ___
 # Схема всей карты
 
-![схема4](https://github.com/user-attachments/assets/152197d6-1136-43c8-a701-9723a81be674)
+![Без названия](https://github.com/user-attachments/assets/65e920b1-8640-42ec-b7c0-134b4372e0e5)
+
