@@ -413,6 +413,7 @@ ___
 
 Схема всей дорожной карты поможет увидеть масштаб всех тем, которые необходимо изучить и практиковать.
 
-![Без названи3](https://github.com/user-attachments/assets/862e000c-33b1-4457-8ccc-04e9e053b9cf)
+![Без названия6](https://github.com/user-attachments/assets/f43d0be5-a135-4eed-b706-83b895a991ef)
+
 
 
