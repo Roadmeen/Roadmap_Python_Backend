@@ -396,7 +396,6 @@ JavaScript - это язык программирования, который и
 - [React Course - Beginner's Tutorial for React JavaScript Library](https://youtu.be/bMknfKXIFA8)
 - [JavaScript - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ]](https://youtu.be/CxgOKJh4zWE)
 - [JavaScript Основы для Начинающих - Полный Курс за 6 часов](https://youtu.be/Bluxbh9CaQ0)
-- [JavaScript Full Course (2023) - Beginner to Pro](https://youtu.be/GWJKePf-WCM)
 - [JavaScript - Полный Курс по JavaScript (Включает 80 Задач)](https://www.udemy.com/course/javascript-ru)
 
 ### Pet-проекты:
