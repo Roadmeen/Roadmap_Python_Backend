@@ -27,8 +27,7 @@
 
 Данное изображение прекрасно показывает за что отвечает frontend, а за что backend
 
-<img width="1138" alt="5ee7e0a350762af5c181fe8fc3eb6284" src="https://github.com/user-attachments/assets/abb6b77f-7eb0-451e-8839-4b09a9cd574a" />
-
+![2025-04-04_17-33-12](https://github.com/user-attachments/assets/0082a964-7bb0-4ab0-abaa-5c227922e5b6)
 ___
 # Формат обучения
 
