@@ -128,7 +128,7 @@ ___
     - doctest
 #### Курсы и туториалы:
 - [Expert Python Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP)
-- [Канал «Хитрый Питон»](https://www.youtube.com/@user-th6xg5bk4c/videos)
+- [Канал «Хитрый Питон»](https://www.youtube.com/@Хитрыйпитон/videos)
 - [Yandex: Воркшопы по основам Python](https://www.youtube.com/playlist?list=PLQC2_0cDcSKD0hiVn2A-4180JwURlg5I9)
 
 ### Pet-проекты:
